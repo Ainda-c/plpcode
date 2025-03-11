@@ -1,0 +1,10 @@
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+sum_result = num1 + num2
+div_result = num1 / num2
+diff_result = num1 - num2
+mul_result = num1 * num2
+print(f"Sum of {num1} + {num2} = {sum_result}")
+print(f"Division of {num1} / {num2} = {div_result}")
+print(f"Difference of {num1} - {num2} = {diff_result}")
+print(f"Multiplication of {num1} * {num2} = {mul_result}")
